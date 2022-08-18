@@ -1,9 +1,9 @@
 {
-  "name": "@christeffer/react-component-design",
+  "name": "@christeffer/react-component-lib",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/christeffer"
   },
-  "version": "0.0.8",
+  "version": "0.0.1",
   "description": "React library",
   "scripts": {
     "rollup": "rollup -c"
